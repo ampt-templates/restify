@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="75"  height="50"/>
-    <img src="https://ampt.dev/public/templates/restify.svg" alt="restify-logo" width="75" height="50""/>
+    <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="100"  height="100"/>
+    <img src="https://ampt.dev/public/templates/restify.svg" alt="restify-logo" width="150" height="100""/>
 </p>
 
 ## Welcome to Ampt!
