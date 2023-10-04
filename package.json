@@ -1,0 +1,17 @@
+{
+  "name": "ampt-restify",
+  "version": "1.0.0",
+  "description": "Starter template for Restify + Ampt.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@ampt/sdk": "^1.0.0",
+    "restify": "^11.1.0"
+  },
+  "ampt": {
+    "app": "ampt-restify"
+  },
+  "files": [
+    "*"
+  ]
+}
