@@ -9,9 +9,10 @@
     "restify": "^11.1.0"
   },
   "ampt": {
-    "app": "ampt-restify"
+    "app": "",
+    "org": ""
   },
-  "files": [
-    "*"
-  ]
+  "scripts": {
+    "gitpod:ampt": "./node_modules/.bin/ampt"
+  }
 }
